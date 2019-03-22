@@ -1,0 +1,141 @@
+
+.body {
+    background-color: rgb(199, 194, 194);
+    width:1050px;
+    margin-right:auto;
+    margin-left:auto; 
+}
+.header {
+    width:1030px; 
+    padding:10px;
+    margin-right:auto;
+    margin-left:auto; 
+    background-color: white;
+    height:110px;
+    border-bottom-style: solid;
+    border-color: rgb(168, 165, 165);
+    padding-bottom:0;
+    margin-bottom:0;
+
+}
+.subject {
+    width:350px;
+    padding:10px;
+
+    color: white;
+    background-color:teal;
+    text-align: center;
+    float:left; 
+    margin-left: 30px;
+    position: relative;
+    bottom:-10px;
+}
+.nav {
+    padding:10px;
+    margin-right:auto;
+    margin-left:auto;
+    font-size:20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    float:right;
+    color: gray;
+    width:250px;
+       position: relative;
+    left: -60px;
+    bottom: -20px;
+    display: inline-block;
+}
+
+.link {
+    padding:10px;
+    text-decoration: none;
+    display: inline-block;
+}
+.bio-section {
+    background-color:white;
+    width:960px;
+    margin-right: auto;
+    margin-left: auto;
+    padding:20px;
+    position: relative;
+    bottom:-20px;
+
+}
+.bio-para{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:18px;
+    
+}
+
+.about {
+    color:teal;
+    border-bottom-style: solid;
+    border-color:gray;
+
+}
+.image {
+    width:200px;
+    height:200px;
+    float:left;
+    padding:10px;
+}
+.footer{
+    width:1050px; 
+    margin-right:auto;
+    margin-left:auto; 
+    background-color: rgb(66, 65, 65);
+    height:100px;
+    border-top-style: solid;
+    border-color:teal;
+    border-width:thick;
+    text-align: center;
+    color:gray;
+    position: relative;
+    bottom:-40px;
+    
+    
+}
+.portfolio-section{
+    background-color:white;
+    width:960px;
+    margin-right: auto;
+    margin-left: auto;
+    padding:20px;
+    position: relative;
+    bottom:-20px;
+}
+.contact-section{
+    background-color:white;
+    width:960px;
+    margin-right: auto;
+    margin-left: auto;
+    padding:20px;
+    position: relative;
+    bottom:-20px;
+}
+.input {
+    width: 80px;
+   }
+   
+.image-group {
+    height: 400px;
+    background: darkgray;
+  }
+  
+  .image {
+    width: 300px;
+    height: 200px;
+    margin:0 auto;
+    padding:10px;
+    
+  }
+  
+  .column{
+    float:left;
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  
+  }
