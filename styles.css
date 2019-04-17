@@ -61,6 +61,14 @@
     bottom:-20px;
 
 }
+
+#bio-image {
+    width: 200px;
+    height: 200px;
+    margin:0 auto;
+    padding:10px;
+    
+  }
 .bio-para{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size:18px;
@@ -73,12 +81,7 @@
     border-color:gray;
 
 }
-.image {
-    width:200px;
-    height:200px;
-    float:left;
-    padding:10px;
-}
+
 .footer{
     width:1050px; 
     margin-right:auto;
@@ -122,7 +125,9 @@
     background: darkgray;
   }
   
-  .image {
+ 
+
+  .image-port {
     width: 300px;
     height: 200px;
     margin:0 auto;
